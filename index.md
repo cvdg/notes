@@ -1,7 +1,8 @@
-# Notes
+# notes
 
-A simple MarkDown BLog with [VimWiki](https://vkc.sh/vimwiki-101/).
+A simple MarkDown BLog.
 
-## Diary
+## Checkout
 
-- [Sun March 30 2025](diary/2025-03-30)
+* [NextCloud](https://nextcloud.com/) - Private Cloud
+* [Syncthing](https://syncthing.net/) - Directory synchronisation
